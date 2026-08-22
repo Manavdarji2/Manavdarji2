@@ -1,113 +1,171 @@
-<div align="center">
+<div align="center">Manav Darji
 
-# Hi, I'm Manav Darji 👋
+AI/ML Engineer · Generative AI · LLM & Agentic Systems
 
-### AI/ML Engineer · Agentic RAG Developer · Full-Stack Builder
+<p>
+  <a href="https://manav-darji.vercel.app">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/manav-darji-aiml">LinkedIn</a> ·
+  <a href="mailto:darjimanav3@gmail.com">Email</a> ·
+  <a href="https://github.com/manav-darji-aiml">GitHub</a>
+</p>Building production-oriented AI systems with LLMs, RAG, AI agents, and machine learning.
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Agentic+RAG+%26+GenAI+Developer;B.Sc.+AIML+(Hons)+Final+Year;LangChain+%7C+LangGraph+%7C+Keras;Open+to+AI%2FML+Roles+%26+Internships&center=true&width=520&height=45" />
+</div>---
 
-<br/>
+About
 
-🟢 **Open to AI/ML internships & full-time roles — feel free to reach out!**
+I'm an AI/ML Engineer focused on Generative AI, Large Language Models, Agentic AI, and Retrieval-Augmented Generation.
 
-📍 India &nbsp;|&nbsp; 📧 darjimanav3@gmail.com &nbsp;|&nbsp; 🌐 [manav-darji.vercel.app](https://manav-darji.vercel.app)
+I enjoy taking AI ideas from experimentation to usable software — from model and data pipelines to APIs, databases, interfaces, and deployment.
+
+Education: B.Sc. (Hons) Artificial Intelligence & Machine Learning · 2026
+
+Core Interests
+
+- Generative AI & Large Language Models
+- Agentic AI & Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- LLM orchestration and tool calling
+- Local LLM inference
+- Model fine-tuning
+- Computer Vision & Deep Learning
+- AI-powered applications and automation
+
+---
+
+Featured Projects
+
+Local AI
+
+Privacy-focused local AI assistant for text and image-based interactions.
+
+Built around local LLM inference with support for AI-agent workflows and offline usage.
+
+Tech: Python · Ollama · LLMs · Multi-Agent Systems
+
+"Repository" (https://github.com/manav-darji-aiml/Local-AI)
+
+---
+
+Timetable Genius
+
+AI-powered timetable generation and scheduling system.
+
+Designed to automate timetable creation while handling scheduling constraints and conflicts.
+
+Tech: Python · Flask · MongoDB · Generative AI
+
+"Repository" (https://github.com/manav-darji-aiml/Timetable-genius)
+
+---
+
+Gemma Marathi
+
+Language-model experimentation focused on Marathi language processing.
+
+Worked with Google's Gemma model family and explored fine-tuning and language-specific model adaptation.
+
+Tech: Python · Keras · TensorFlow · Kaggle · Gemma
+
+"Repository" (https://github.com/manav-darji-aiml/Gemma2-2b-mr-Model-Train-Marathi-Language)
+
+---
+
+Agentic RAG Systems
+
+AI systems combining retrieval, reasoning, tools, and workflow orchestration.
+
+Exploring architectures where LLMs can retrieve knowledge, use tools, maintain context, and execute multi-step tasks.
+
+Tech: Python · LangChain · LangGraph · Vector Databases · LLMs
+
+---
+
+Technical Skills
+
+AI / Machine Learning
+
+"Python" · "PyTorch" · "TensorFlow" · "Keras" · "Scikit-learn" · "OpenCV"
+
+Generative AI
+
+"LLMs" · "RAG" · "Agentic AI" · "LangChain" · "LangGraph" · "Transformers" · "Embeddings" · "Vector Search" · "Prompt Engineering"
+
+Local AI
+
+"Ollama" · "GGUF" · "Local LLM Inference" · "Model Fine-tuning"
+
+Backend
+
+"FastAPI" · "Flask" · "Django" · "REST APIs" · "Node.js"
+
+Databases
+
+"MongoDB" · "MySQL" · "ChromaDB" · "FAISS"
+
+Frontend
+
+"React" · "Next.js" · "TypeScript" · "JavaScript" · "HTML" · "CSS" · "Tailwind CSS"
+
+Tools
+
+"Git" · "GitHub" · "Docker" · "Kaggle" · "Google Colab" · "VS Code"
+
+---
+
+AI Engineering Focus
+
+Data
+  ↓
+Models / LLMs
+  ↓
+Retrieval & Knowledge
+  ↓
+Agents & Tool Calling
+  ↓
+Backend APIs
+  ↓
+Applications
+  ↓
+Deployment
+
+I am particularly interested in building systems that combine models + retrieval + reasoning + tools + software engineering into complete AI products.
+
+---
+
+Currently Exploring
+
+- Agentic RAG architectures
+- LangGraph-based AI workflows
+- Multi-agent orchestration
+- Long-term AI memory
+- Local and cloud LLMs
+- LLM evaluation
+- Multilingual AI
+- AI automation
+- Model fine-tuning
+- AI infrastructure and deployment
+
+---
+
+GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manav-darji-aiml&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manav-darji-aiml&layout=compact&hide_border=true&langs_count=8" height="165"/>
+</p>---
+
+Connect
+
+<p align="center"><a href="mailto:darjimanav3@gmail.com">
+<img src="https://img.shields.io/badge/Email-darjimanav3%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a><a href="https://www.linkedin.com/in/manav-darji-aiml">
+<img src="https://img.shields.io/badge/LinkedIn-Manav%20Darji-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a><a href="https://manav-darji.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Manav%20Darji-111111?style=flat-square&logo=vercel&logoColor=white"/>
+</a><a href="https://www.kaggle.com/manavdarji18">
+<img src="https://img.shields.io/badge/Kaggle-Manav%20Darji-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+</a></p>---
+
+<div align="center">AI/ML Engineer focused on building useful, reliable AI systems.
 
 </div>
-
----
-
-## 🔭 Currently Building
-
-- **Agentic RAG pipeline** with LangGraph + multi-agent orchestration
-- **Gemma-4-Multi** — multi-turn regional dialect processing system (Keras Backend + Transformers)
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Final Year** B.Sc. (Hons) in Artificial Intelligence & Machine Learning
-- 🧠 **Focus:** Engineering Agentic RAG systems & Generative AI workflows with LangChain & LangGraph
-- 🎨 **Philosophy:** Blending high-end UI/UX (Bento Grids & Scrollytelling) with complex ML backends
-- 🌍 **Community:** Active contributor to open-source (Google Gemma) & Google Developer Groups (GDG)
-- 📚 **Learning:** Keras Backend, Research-driven development, LLM Orchestration
-
----
-
-## 🚀 Key Projects
-
-| Project | Description | Impact | Tech Stack |
-|:---|:---|:---|:---|
-| [**MedSimplify**](https://github.com/manav-darji-aiml/MedSimplify) | Privacy-first offline clinical assistant — translates complex medical reports into 22 Indian languages using local AI | Real-time streaming · 22 languages · 0 data leakage | Next.js, LangChain, GGUF, ChromaDB, Ollama |
-| [**Gemma-4-Multi**](https://github.com/manav-darji-aiml/Artificial-intelligence) | Multi-turn language orchestration system with regional dialect processing & advanced prompt routing | Handles multi-dialect queries end-to-end | Python, Keras Backend, Transformers, LangGraph |
-| [**Gemma Marathi**](https://github.com/manav-darji-aiml/Gemma2-2b-mr-Model-Train-Marathi-Language) | Fine-tuned Google's Gemma 2B model on Marathi language corpus | Improved language accuracy on Marathi benchmarks | Kaggle, TensorFlow, Keras |
-| [**GenAI Timetable**](https://github.com/manav-darji-aiml/Timetable-genius) | Smart scheduling system with AI-powered conflict resolution & Excel integration | Automated timetable generation for institutions | Flask, MongoDB, OpenAI |
-| [**Local-AI**](https://github.com/manav-darji-aiml/Local-AI) | Fully local AI assistant combining text & image analysis with multi-agent support (local + online mode) | Works 100% offline with no API dependency | Python, Ollama, Multi-agent |
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,tensorflow,pytorch,sklearn,opencv,mongodb,mysql,flask,fastapi,django,react,nextjs,ts,html,css,js,vscode,pycharm,figma&perline=10" />
-</p>
-
-**AI/ML:** LangChain · LangGraph · Keras · HuggingFace Transformers · ChromaDB · Ollama · GGUF · OpenCV · Scikit-learn  
-**Backend:** FastAPI · Flask · Django · Node.js · Express.js  
-**Frontend:** React · Next.js 14 · TypeScript · Tailwind CSS  
-**Databases:** MongoDB · MySQL · ChromaDB  
-**Tools:** Git · Docker · Kaggle · Google Colab · VS Code  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manav-darji-aiml&show_icons=true&theme=radical&rank_icon=github&hide_border=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manav-darji-aiml&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manav-darji-aiml&theme=radical&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🏆 Achievements & Involvement
-
-- 🔬 **Google Gemma Open-Source Contributor** — Gemma model fine-tuning & Marathi language adaptation
-- 👥 **Google Developer Groups (GDG)** — Active community member & tech event participant
-- 📊 **Kaggle** — Active practitioner ([manavdarji18](https://www.kaggle.com/manavdarji18))
-- 🌐 **Google Developer Profile** — [g.dev/Manav-Viral-Darji](https://g.dev/Manav-Viral-Darji)
-
----
-
-## 🤝 Connect & Collaborate
-
-<p align="center">
-  <a href="mailto:darjimanav3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-darjimanav3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/manav-darji-aiml">
-    <img src="https://img.shields.io/badge/LinkedIn-Manav%20Darji-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://manav-darji.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-manav--darji.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/manavdarji18">
-    <img src="https://img.shields.io/badge/Kaggle-manavdarji18-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Strive to build intelligent, helpful tools — not just models."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manav-darji-aiml&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
